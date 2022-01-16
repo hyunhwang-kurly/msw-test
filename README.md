@@ -125,3 +125,5 @@ function MyApp({ Component, pageProps }: AppProps) {
 
 export default MyApp;
 ```
+
+여기까지 MSW의 기본 설정이 되었습니다. 다음은 Next.js에서 `getServersideProps`와 Client-side에서 fetching하는 방법을 알아봅시다.
